@@ -62,6 +62,6 @@ GANomaly는 크게 3개의 subnetwork로 나뉜다. 입력과 비슷한 이미�
 📰 Casting product image data for quality inspection. https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
 
 ### Code 참고
-https://github.com/soomin9106/Deep-Learning/blob/main/AnoGAN/DCGAN_ AnoGAN.ipynb <br>
+https://github.com/soomin9106/Deep-Learning/blob/main/AnoGAN/DCGAN_AnoGAN.ipynb <br>
 https://github.com/leafinity/keras_ganomaly/blob/master/ganomaly.ipynb
 
